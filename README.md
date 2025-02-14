@@ -17,16 +17,6 @@
   </div>
 </div>
 
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code Snippets](#snippets)
-6. 🔗 [Assets](#assets)
-7. 🚀 [More](#more)
-
 ## 🤖 Introduction
 
 Dugsiiye is a learning platform that provides detailed courses in AI, full-stack development, and more. The courses are designed for all levels, offering real-world, project-based learning in a variety of tech stacks.
